@@ -8,3 +8,8 @@ The dataset used for this project can be found here: https://ourworldindata.org/
 
 ## 2. Nashville Housing Project:
 While no visualization come as a result of this project, the real purpose of this project was to practice using SQL. Using SQL, I looked through the dataset and cleaning and reformmated the data to be consistent and usable. 
+
+## 3. Movie Correlation Project:
+In this project, I perform some EDA on a movie dataset. I demonstrate my ability to use Python, Pandas, matplotlib and seaborn in conjunction with Jupyter Notebook to clean and perform some analysis of the movie dataset, including creating some visualizations of correlations between features.
+
+This movie dataset can be found here: https://www.kaggle.com/datasets/danielgrijalvas/movies
